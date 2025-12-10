@@ -6,11 +6,17 @@ This project allows users to check balance, withdraw cash, deposit money, and ch
 📌 Features
 
 🔐 PIN verification system
+
 💰 Check account balance
+
 💵 Withdraw money
+
 ➕ Deposit money
+
 🔄 Change ATM PIN
+
 🚫 Error handling for invalid inputs
+
 🎯 Simple and user-friendly design
 
 📂 Project Structure
