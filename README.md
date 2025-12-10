@@ -1,9 +1,9 @@
-🏧 Advanced ATM System (Python)
+# 🏧 Advanced ATM System (Python)
 
 A simple and beginner-friendly ATM Simulation Program built using Python.
 This project allows users to check balance, withdraw cash, deposit money, and change their PIN — all through a clean console-based interface.
 
-📌 Features
+## 📌 Features
 
 🔐 PIN verification system
 
@@ -19,13 +19,13 @@ This project allows users to check balance, withdraw cash, deposit money, and ch
 
 🎯 Simple and user-friendly design
 
-📂 Project Structure
+## 📂 Project Structure
 📁 ATM-System
 │── adv_atm.py     # Main program file
 │── README.md      # Project documentation
 │── LICENSE        # MIT License
 
-🚀 Getting Started
+## 🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/<repo-name>.git
 
@@ -35,7 +35,7 @@ cd <repo-name>
 3️⃣ Run the Program
 python adv_atm.py
 
-🧠 How the Program Works
+## 🧠 How the Program Works
 
 When the program starts, you will see this menu:
 
@@ -55,7 +55,7 @@ Every sensitive operation requires PIN verification.
 
 The program runs in a loop until you choose Exit (5).
 
-🛠 Improved Code Structure (Highlights)
+## 🛠 Improved Code Structure (Highlights)
 
 ✔ Uses string PINs to prevent issues with leading zeros
 ✔ Global balance and PIN updates
@@ -63,13 +63,13 @@ The program runs in a loop until you choose Exit (5).
 ✔ Proper validation for user input
 ✔ No extra spaces or blank lines during output
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 See the LICENSE
  file for more details.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome!
 Feel free to fork the repository and submit a pull request.
